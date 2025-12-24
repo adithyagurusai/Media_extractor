@@ -1,0 +1,20 @@
+# ===================================================================
+# CUSTOM PAGE NAMING CONFIGURATION
+# ===================================================================
+# 
+# Format: URL|PageName (pipe-separated)
+# 
+# Rules:
+# - One entry per line
+# - Lines starting with # are comments
+# - PageName becomes the output folder name
+# - Use underscores instead of spaces
+# - If this file is empty or doesn't exist, falls back to urls.txt
+#
+# Examples:
+# https://en.wikipedia.org/wiki/Cat|Wikipedia_Cats
+
+# ===================================================================
+
+https://www.trimx.in/ | Home_page
+https://www.trimx.in/menu | Menu_page

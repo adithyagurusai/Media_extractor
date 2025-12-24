@@ -1,0 +1,4 @@
+# List of webpage URLs to extract media from
+# One URL per line, lines starting with # are ignored
+
+#https://en.wikipedia.org/wiki/Cat
